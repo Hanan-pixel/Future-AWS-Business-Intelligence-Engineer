@@ -94,7 +94,7 @@ Develop reusable, secure, enterprise-ready generative AI applications using Amaz
 ---
 
 ### 💡 Project
-#### <a name="q-project"></a> **AI-Powered Career Coach Assistant**
+#### <a name="project-2"></a> **AI-Powered Career Coach Assistant**
 > Create a no-code AI app that supports career coaches with personalized training recommendations and intelligent insights using Amazon Q.
 
 **Repository Path:**  
