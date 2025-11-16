@@ -16,7 +16,7 @@ Learn to build AI-powered dashboards, ask natural language data questions, optim
 | 🧩 **Lesson 1** | Intro to Amazon Q + Q Bar usage | 🔗 [Go to Lesson 1](https://learn.udacity.com/nd2726?version=1.2.2&partKey=cd14265&lessonKey=82b2ebcd-b758-47df-85f4-bcd78b794563&conceptKey=57f076f3-509f-4f27-85cf-4c7f40e21713) |
 | 📊 **Lesson 2** | KPI Dashboards + Q Optimization | 🔗 [Go to Lesson 2](https://learn.udacity.com/nd2726?version=1.2.2&partKey=cd14265&lessonKey=81eed40e-2e27-4af8-959b-05875636ca65&conceptKey=ecf3ac48-d7d5-4c49-8652-bbe1560068b3) |
 | 📝 **Lesson 3** | Data Storytelling + Scenarios | 🔗 [Go to Lesson 3](https://learn.udacity.com/nd2726?version=1.2.2&partKey=cd14265&lessonKey=e8db7796-6869-4716-8b38-a8ce6ae909a1&conceptKey=9899cc84-651a-4fc8-87dc-8fef9d4aa818) |
-| 🎯 **Project** | College Data Insight Dashboard | 🔗 [View Project](#project-1) |
+| 🎯 **Project** | College Data Insight Dashboard | 🔗 [View Project](https://github.com/Hanan-pixel/Future-AWS-Business-Intelligence-/tree/d968beecdc968ec61896a4ed8c2784f8e906471d/project-1%20From%20College%20Boards%20to%20Dashboards%20Providing%20Data%20Insights%20to%20community%20college) |
 
 ---
 
@@ -52,7 +52,8 @@ Learn to build AI-powered dashboards, ask natural language data questions, optim
 > Analyze student enrollment using **QuickSight + Amazon Q**, build dashboards, interpret insights, and recommend solutions to improve student satisfaction **without increasing tuition**.
 
 **Repository Path:**  
-`Future-AWS-Business-Intelligence-Engineer/project-1`
+[Future-AWS-Business-Intelligence-Engineer/project-1](https://github.com/Hanan-pixel/Future-AWS-Business-Intelligence-/tree/d968beecdc968ec61896a4ed8c2784f8e906471d/project-1%20From%20College%20Boards%20to%20Dashboards%20Providing%20Data%20Insights%20to%20community%20college)
+
 
 ---
 
