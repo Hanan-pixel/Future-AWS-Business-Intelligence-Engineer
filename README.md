@@ -99,6 +99,6 @@ Develop reusable, secure, enterprise-ready generative AI applications using Amaz
 > Create a no-code AI app that supports career coaches with personalized training recommendations and intelligent insights using Amazon Q.
 
 **Repository Path:**  
-[Future-AWS-Business-Intelligence-Engineer/project-2] (https://github.com/Hanan-pixel/Future-AWS-Business-Intelligence-/tree/046b99a68eedcf0d7fc4044f5eaaeb55fa169a31/project%20-2%20AI%20Career%20Coach%20Assistant)
+[Future-AWS-Business-Intelligence-Engineer/project-2](https://github.com/Hanan-pixel/Future-AWS-Business-Intelligence-/tree/046b99a68eedcf0d7fc4044f5eaaeb55fa169a31/project%20-2%20AI%20Career%20Coach%20Assistant)
 
 
